@@ -84,7 +84,7 @@ Upewnij się, że po zwinieciu sekcji teorii zawartość jest ukryta i nie jest 
 
  **<h2>Test Case "Responsywności menu nawigacji w nagłówku"</h2>**
 
-<h3>Opis</h3> 
+__Opis__
 
 Przetestuj responsywność menu nawigacji w nagłówku strony internetowej na różnych rozdzielczościach ekranu oraz sprawdź nawigację strzałkami.
 
