@@ -1,17 +1,17 @@
-*1* Test Case: Sprawdzenie poprawnego działania przycisku "ukryj sekcję wyników"*
+**<h2>Test Case: Sprawdzenie poprawnego działania przycisku "ukryj sekcję wyników"</h2>**
 
 
-Opis
+__Opis__
 
 Test sprawdza, czy przycisk "ukryj sekcję wyników" działa poprawnie i ukrywa odpowiednią sekcję na stronie.
 
-Warunki wstępne
+__Warunki wstępne__
 
 1. Projekt jest uruchomiony i dostępny na stronie.
 2. Sekcja wyników jest widoczna na stronie.
 
 
-Kroki testowe
+__Kroki testowe__
 
 1. Otwórz stronę projektu.
 2. Zlokalizuj sekcję wyników na stronie.
@@ -20,20 +20,20 @@ Kroki testowe
 5. Kliknij przycisk "ukryj sekcję wyników".
 
 
-Oczekiwany rezultat
+__Oczekiwany rezultat__
 
 Po kliknięciu przycisku "ukryj sekcję wyników", sekcja wyników powinna zostać ukryta.
 Przycisk "ukryj sekcję wyników" powinien zmienić się na "pokaż sekcję wyników".
 Sekcja wyników powinna być niewidoczna na stronie.
 
 
-Warunki końcowe
+__Warunki końcowe__
 
 Sekcja wyników jest ukryta na stronie.
 Przycisk "ukryj sekcję wyników" jest widoczny jako "pokaż sekcję wyników".
 
 
-Notatki
+__Notatki__
 
 Test powinien być powtórzony dla różnych scenariuszy, na przykład gdy sekcja wyników jest już ukryta lub gdy użytkownik jest zalogowany.
 Test może zostać rozszerzony o dodatkowe weryfikacje, takie jak sprawdzanie stanu przycisku po ponownym kliknięciu.
@@ -42,54 +42,47 @@ Możesz go dostosować do swoich potrzeb i dodawać dodatkowe kroki lub weryfika
 
 
 
-*2* Test Case: Zwinięcie sekcji teorii i rozwinięcie edytora HTML*
+**<h2>Test Case: Zwinięcie sekcji teorii i rozwinięcie edytora HTML</h2>**
 
 
-Opis: 
+__Opis__
 
 Test sprawdza funkcjonalność zwijania sekcji teorii w edytorze HTML. Sprawdzane jest, czy sekcja zostaje poprawnie zwinęta, a następnie, czy można ją ponownie rozwinąć.
 
 
 
-Warunki wstępne:
+__Warunki wstępne__
 
 Edytor HTML jest otwarty.
 Sekcja teorii jest rozwinięta.
 
 
-Kroki testowe:
+__Kroki testowe__
 
-Sprawdź, czy sekcja teorii jest rozwinięta.
+1. Sprawdź, czy sekcja teorii jest rozwinięta.
+2. Sprawdź, czy zawartość sekcji teorii jest widoczna.
+3. Sprawdź, czy przycisk "Zwiń" obok sekcji teorii jest dostępny.
+4. Kliknij na przycisk "Zwiń" obok sekcji teorii.
 
-Sprawdź, czy zawartość sekcji teorii jest widoczna.
-Sprawdź, czy przycisk "Zwiń" obok sekcji teorii jest dostępny.
-Kliknij na przycisk "Zwiń" obok sekcji teorii.
 
+__Oczekiwany rezultat__
 
-Oczekiwany rezultat:
-
-Sekcja teorii zostaje zwinęta.
-Zawartość sekcji teorii jest ukryta.
+Sekcja teorii zostaje zwinęta, zawartość sekcji teorii jest ukryta.
 Przycisk "Zwiń" zmienia się na "Rozwiń".
 
 
-Warunki końcowe:
+__Warunki końcowe__
 
-Sekcja teorii jest zwinięta.
-Zawartość sekcji teorii jest niewidoczna.
+Sekcja teorii jest zwinięta, zawartość sekcji teorii jest niewidoczna.
 Przycisk "Rozwiń" jest dostępny obok sekcji teorii.
 
 
-Notatki:
+__Notatki__
 
 Upewnij się, że po zwinieciu sekcji teorii zawartość jest ukryta i nie jest widoczna dla użytkownika.
 Sprawdź, czy przycisk "Rozwiń" działa poprawnie po zwinieciu sekcji.
 Można również sprawdzić, czy po zwinięciu sekcji teorii miejsce na ekranie jest odpowiednio zwolnione.
 
 
-Notatki:
 
-Upewnij się, że zawartość sekcji teorii jest niewidoczna po zwinięciu.
-Sprawdź, czy przycisk "Rozwiń" działa poprawnie po zwinieciu sekcji.
-Można również sprawdzić, czy po zwinięciu sekcji teorii miejsce na ekranie jest odpowiednio zwolnione.
 
