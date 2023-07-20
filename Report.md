@@ -79,7 +79,7 @@ __Oczekiwany rezultat__
 Po otwarciu maila z potwierdzeniem dostarczenia aplikacji do pracodawcy, klikamy w "Przejdź do swoich aplikacji", następnie używając strzałki w lewo wychodzimy z podglądu statusu. Otwiera się lista wszystkich wysłanych aplikacji, po których możemy swobodnie się przemieszczać scrollujac (góra, dół) i klikać w kolejne zaaplikowane stanowiska.
 
 
-<h2>4 Windows 11 Pro - Moje konto - Nie można dodać lub edytować danych personalnych, niekończące się ładowanie danych.</h2>
+<h2>4 Windows 11 Pro - Moje konto - Nie można dodać lub edytować danych personalnych, niekończące się otwieranie okna danych.</h2>
 
 
 __Warunki wstępne__
