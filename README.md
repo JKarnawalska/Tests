@@ -39,7 +39,7 @@ W moim portfolio znajdują się różne projekty, które wykonywałam jako teste
 
 <h3>Kontakt</h3>
 
-Moją stronę na LinkedIn możesz znaleźć pod tym linkiem-> https://www.linkedin.com/in/justyna-karnawalska-64771a240/
-Jeśli masz pytania lub chciałbyś porozmawiać o współpracy, skontaktuj się ze mną przez LinkedIn lub na mojego maila: justyna.karnawalska@o2.pl
+Moją stronę na LinkedIn możesz znaleźć pod tym linkiem-> <p><a title="Link do LinkedIn" href="https://www.linkedin.com/in/justyna-karnawalska-64771a240/"> https://www.linkedin.com/in/justyna-karnawalska-64771a240/</a></p>
+Jeśli masz pytania lub chciałbyś/chciałabyś porozmawiać o współpracy, skontaktuj się ze mną przez LinkedIn lub na mojego maila: justyna.karnawalska@o2.pl
 
 Dziękuję za odwiedzenie mojego portfolio! Zapraszam do zapoznania się z moimi projektami, umiejętnościami i doświadczeniem.
