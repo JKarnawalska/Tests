@@ -22,7 +22,7 @@ __Oczekiwany rezultat__
 Po kliknięciu w przycisk __"Ukryj sekcję wyników"__,sekcja wyników zwija się,okno edytora HTML rozwija się na całą wysokość strony, a menu edytora przemieszcza się w dół. Pojawia się tekst __"Pokaż sekcję wyników"__.
 
 
-<h2>2 Brak możliwości ponownego przejścia testu "Testing technical" wybierając przycisk "Try again"</h2>
+<h2>2 Brak możliwości ponownego przejścia testu "Testing Technical" wybierając przycisk "Try again"</h2>
 
 __Warunek początkowy__
 
