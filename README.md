@@ -23,7 +23,8 @@ w kilku maratonach z testowania zorganizowanych przez firmę GoIT Polska. Zamił
 <h3>Narzędzia i technologie</h3>
 
 Środowisko i obsługa pracy;
-Jira, TestRail, Android Studio, Bandicam, Windows, Android, Chrome, Microsoft Edge, Postman, Figma, Canva, LibreOffice 7.5, Gencraft
+Jira, TestRail, Android Studio, Bandicam, Windows, Android, Chrome, Microsoft Edge, Postman, Figma, Canva,
+LibreOffice 7.5, Gencraft
 
 
 <h3>Zainteresowanie</h3> 
