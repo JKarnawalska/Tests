@@ -30,6 +30,7 @@ Projekty
 
 W moim portfolio znajdują się różne projekty, które wykonywałam jako tester manualny. Przedstawiam tam raporty o błędach, zrzuty ekranu i inne zasoby, które mogą być pomocne w ocenie moich umiejętności.
 
+
 Kontakt
 
 Moją stronę na LinkedIn możesz znaleźć pod tym linkiem-> https://www.linkedin.com/in/justyna-karnawalska-64771a240/
