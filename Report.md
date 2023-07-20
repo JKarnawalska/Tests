@@ -14,7 +14,7 @@ __Kroki do odtworzenia__
 
 __Aktualny rezultat__
 
-Okno edytora HTML, rozciągneło się w dół zakrywając okno sekcji wyników. Wyświetlane są jednak nadal poprzednie rekordy, przenikają przez warstwy okna edytora HTML. Przyciski sekcji wyników zostały podciągnięte do góry pod okno edytora kodu.
+Okno edytora HTML, rozciąga się w dół zakrywając okno sekcji wyników. Wyświetlane są jednak nadal poprzednie rekordy, przenikają przez warstwy okna edytora HTML. Przyciski sekcji wyników zostały podciągnięte do góry pod okno edytora kodu.
 
 
 __Oczekiwany rezultat__
