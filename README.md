@@ -3,7 +3,7 @@ Justyna Karnawalska - Portfolio Testera Manualnego
 O mnie
 
 Jestem testerem manualnym z kilkumiesięcznym doświadczeniem w branży. Przez ten czas miałam okazję praktykować na platformach uTest i Test.io oraz brać udział
-w kilku maratonach z testowania zorganizowanych przez firmę GoIT Polska. Zamiłowanie do testowania rozwijałam od dawna, uwielbiając testować nowe gry komputerowe oraz oprogramowania dotyczące mojego zamiłowania dojazdy konnej, gry na gitarze i podróżowania.
+w kilku maratonach z testowania zorganizowanych przez firmę GoIT Polska. Zamiłowanie do testowania rozwijałam od dawna, uwielbiając testować nowe gry komputerowe oraz oprogramowania dotyczące mojego zamiłowania dojazdy konnej, gry na gitarze i podróżowania. Informacje dotyczące testowania zdobywam dzięki YouTube, Udemy, blogi branżowe, fora i grupy(FaceBook), newsletter, akademie. 
 
 Umiejętności
 1. Testy manualne na różnych platformach i systemach operacyjnych
