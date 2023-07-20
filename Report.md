@@ -1,4 +1,4 @@
-<h2>1 Sekcja wyników nie zwija się w oczekiwany sposób</h2>
+<h2>1 Windows 11 Pro -Chrome- Sekcja wyników nie zwija się w oczekiwany sposób</h2>
 
 
 __Warunki rozpoczęcia__
@@ -22,7 +22,7 @@ __Oczekiwany rezultat__
 Po kliknięciu w przycisk __"Ukryj sekcję wyników"__,sekcja wyników zwija się,okno edytora HTML rozwija się na całą wysokość strony, a menu edytora przemieszcza się w dół. Pojawia się tekst __"Pokaż sekcję wyników"__.
 
 
-<h2>2 Windows 11 Pro- Brak możliwości ponownego przejścia testu "Testing Technical" wybierając przycisk "Try again"</h2>
+<h2>2 Windows 11 Pro - Chrome- Brak możliwości ponownego przejścia testu "Testing Technical" wybierając przycisk "Try again"</h2>
 
 __Warunek początkowy__
 
@@ -49,7 +49,7 @@ Dzięki przyciskowi "Try again" dla testu "Testing Technical", mamy możliwość
 
 
 
-<h2>3 Windows 11 Pro- Zamorożenie podglądu zakładki "moje aplikacje" po przełączeniu z konta klienta o2.pl</h2>
+<h2>3 Windows 11 Pro - Chrome- Zamorożenie podglądu zakładki "moje aplikacje" po przełączeniu z konta klienta o2.pl</h2>
 
 
 __Warunki wstępne__
@@ -79,7 +79,7 @@ __Oczekiwany rezultat__
 Po otwarciu maila z potwierdzeniem dostarczenia aplikacji do pracodawcy, klikamy w "Przejdź do swoich aplikacji", następnie używając strzałki w lewo wychodzimy z podglądu statusu. Otwiera się lista wszystkich wysłanych aplikacji, po których możemy swobodnie się przemieszczać scrollujac (góra, dół) i klikać w kolejne zaaplikowane stanowiska.
 
 
-<h2>4 Windows 11 Pro - Moje konto - Nie można dodać lub edytować danych personalnych, niekończące się otwieranie okna danych.</h2>
+<h2>4 Windows 11 Pro - Chrome- Moje konto - Nie można dodać lub edytować danych personalnych, niekończące się otwieranie okna danych.</h2>
 
 
 __Warunki wstępne__
