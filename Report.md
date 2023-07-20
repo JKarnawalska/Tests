@@ -46,3 +46,34 @@ Przycisk "Try again" dla testu "Testing Technical" nie dokonuje żadnej czynnoś
 __Oczekiwany rezultat__
 
 Dzięki przyciskowi "Try again" dla testu "Testing Technical", mamy możliwość ponownego rozpoczęcia testu na stronie Pro Test. Zostaniemy przekierowani bezpośrednio z wyników obecnego testu do początku nowego testu "Testing Technical".
+
+
+
+<h2>3 Zamorożenie podglądu zakładki "moje aplikacje" po przełączeniu z konta klienta o2.pl</h2>
+
+
+__Warunki wstępne__
+
+Aktywne konto na pracuj.pl, minimum 10 wysłanych aplikacji oraz o2.pl- zalogowanie, aktywne konto pocztowe przypisane do portalu pracuj.pl.  
+
+__Kroki odtwarzania__
+
+1.  Otwórz mail z informacją o dostarczeniu aplikacji(cv) do pracodowacy.
+2. Przewiń w dół
+3. Kliknij napis "Przejdź do swoich aplikacji"
+4. Zostaniesz przekierowany na stronę pracuj.pl do modułu "status aplikacji- tej konkretnej z maila"
+5. Użyj strzałki nawigacji w lewo, w lewym górnym rogu, aby powrócić do wszystkich aplikacji.
+
+
+__Aktualny rezultat__
+
+Moduł z wszystkimi dotychczas wysłanymi aplikacja został zamrożony, nie można swobonie przemieszczać się w górę i w dół po module. Co prawda kilka wyświetlanych aplikacji zachowało swoją responsywność i możemy je otworzyć, aby w pełni rozwinąć listę musimy; 
+
+1. Kliknąć w nawigację w stopce "konto"
+2. Z menu użytkownika wybrać opcję "Moje aplikacje"
+Dopiero wtedy zostaniemy przekierowani na responsywną strone portalu pracuj.pl
+
+
+__Oczekiwany rezultat__
+
+Po otwarciu maila z potwierdzeniem dostarczenia aplikacji do pracodawcy, klikamy w "Przejdź do swoich aplikacji", następnie używając strzałki w lewo wychodzimy z podglądu statusu. Otwiera się lista wszystkich wysłanych aplikacji, po których możemy swobodnie się przemieszczać scrollujac(góra, dół) i klikać w kolejne zaaplikowane stanowiska.
