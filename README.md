@@ -34,7 +34,7 @@ Nowe technologie w szczególności AI do tworzenia obrazów 3D, jazda konna-jest
 
 <h3>Projekty</h3>
 
-W moim portfolio znajdują się różne projekty, które wykonywałam jako tester manualny. Przedstawiam tam raporty o błędach, zrzuty ekranu i inne zasoby, które mogą być pomocne w ocenie moich umiejętności.
+W moim portfolio znajdują się różne projekty, które wykonywałam jako tester manualny. Przedstawiam tam raporty o błędach i inne zasoby, które mogą być pomocne w ocenie moich umiejętności.
 
 
 <h3>Kontakt</h3>
