@@ -76,4 +76,4 @@ Dopiero wtedy zostaniemy przekierowani na responsywną strone portalu pracuj.pl
 
 __Oczekiwany rezultat__
 
-Po otwarciu maila z potwierdzeniem dostarczenia aplikacji do pracodawcy, klikamy w "Przejdź do swoich aplikacji", następnie używając strzałki w lewo wychodzimy z podglądu statusu. Otwiera się lista wszystkich wysłanych aplikacji, po których możemy swobodnie się przemieszczać scrollujac(góra, dół) i klikać w kolejne zaaplikowane stanowiska.
+Po otwarciu maila z potwierdzeniem dostarczenia aplikacji do pracodawcy, klikamy w "Przejdź do swoich aplikacji", następnie używając strzałki w lewo wychodzimy z podglądu statusu. Otwiera się lista wszystkich wysłanych aplikacji, po których możemy swobodnie się przemieszczać scrollujac (góra, dół) i klikać w kolejne zaaplikowane stanowiska.
